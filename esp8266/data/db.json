@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "id": "usr_default_triveni",
+      "name": "Triveni",
+      "email": "triveni@sbjain.edu.in",
+      "password": "password123",
+      "createdAt": "2026-10-03T13:48:00.000Z"
+    },
+    {
+      "id": "usr_1791035899158",
+      "name": "Triveni Naik",
+      "email": "ntriveni959@gmail.com",
+      "password": "12345678",
+      "createdAt": "2026-10-03T13:58:19.158Z"
+    }
+  ],
+  "device": {
+    "lastSeen": "2026-10-03T13:54:46.277Z",
+    "ledStatus": "ON",
+    "lcdLine1": "Simple IoT World",
+    "lcdLine2": "Welcome Triveni",
+    "lastUpdate": "2026-10-03T13:59:09.693Z"
+  },
+  "records": [
+    {
+      "id": "rec_001",
+      "temperature": 29.5,
+      "humidity": 55,
+      "timestamp": "2026-10-03T13:10:00.000Z",
+      "time": "06:40 PM",
+      "date": "03-10-2026"
+    },
+    {
+      "id": "rec_002",
+      "temperature": 30.2,
+      "humidity": 54,
+      "timestamp": "2026-10-03T13:20:00.000Z",
+      "time": "06:50 PM",
+      "date": "03-10-2026"
+    },
+    {
+      "id": "rec_003",
+      "temperature": 31,
+      "humidity": 53,
+      "timestamp": "2026-10-03T13:30:00.000Z",
+      "time": "07:00 PM",
+      "date": "03-10-2026"
+    },
+    {
+      "id": "rec_004",
+      "temperature": 32.4,
+      "humidity": 51,
+      "timestamp": "2026-10-03T13:40:00.000Z",
+      "time": "07:10 PM",
+      "date": "03-10-2026"
+    },
+    {
+      "id": "rec_005",
+      "temperature": 33.1,
+      "humidity": 49,
+      "timestamp": "2026-10-03T13:45:00.000Z",
+      "time": "07:15 PM",
+      "date": "03-10-2026"
+    },
+    {
+      "id": "rec_006",
+      "temperature": 34,
+      "humidity": 50,
+      "timestamp": "2026-10-03T13:48:00.000Z",
+      "time": "07:18 PM",
+      "date": "03-10-2026"
+    }
+  ]
+}
